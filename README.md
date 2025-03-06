@@ -20,7 +20,7 @@ A simple music player web application built with Django that allows users to upl
    ```
 2. Navigate to the project directory:
    ```sh
-   cd django-music-player
+   cd django-music-player-folder
    ```
 3. Create and activate a virtual environment:
    ```sh
